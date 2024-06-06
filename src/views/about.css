@@ -383,6 +383,9 @@
   .about-frame00-button {
     top: 632px;
     left: 7px;
+    width: 398px;
+    height: 134px;
+    font-size: 35px;
   }
   .about-text07 {
     font-family: Arial Black;
@@ -403,8 +406,8 @@
     animation-direction: normal;
   }
   .about-text09 {
-    top: -40px;
-    left: -42px;
+    top: -46px;
+    left: -68px;
     color: rgb(0, 0, 0);
     font-size: 45px;
     font-style: normal;
@@ -415,7 +418,12 @@
   .about-text10 {
     top: 21px;
     left: -57px;
-    font-size: 25px;
+    color: rgb(130, 130, 130);
+    font-size: 20px;
+    font-style: normal;
+    font-family: Inter;
+    line-height: 150%;
+    letter-spacing: 0em;
   }
 }
 @media(max-width: 390px) {
