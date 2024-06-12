@@ -20,7 +20,7 @@ const About = (props) => {
       <div className="about-about">
         <div className="about-group">
           <div className="about-group2">
-            <div className="about-navigation">
+            <div onclick="window.location='https://www.instagram.com/safin_travel'" className="about-navigation">
               <span onclick="window.location='https://www.instagram.com/safin_travel'" className="about-text06">>ИНСТАГРАМ</span>
               <img
                 alt="SocialIcons1153"
